@@ -1,2 +1,2 @@
-![Screenshot 2023-12-13 232314](https://github.com/sevinozcn/K-Means/assets/79862833/20cad0cf-5667-4bc5-ae4b-3a44a60127e3)
-![Screenshot 2023-12-13 232328](https://github.com/sevinozcn/K-Means/assets/79862833/54fe400f-25dd-417b-87a8-fb0c31484e59)
+![Screenshot 2023-12-13 234115](https://github.com/sevinozcn/K-Means/assets/79862833/ac53fe92-53d1-455f-8ab9-59f89c5c7a46)
+![Screenshot 2023-12-13 234157](https://github.com/sevinozcn/K-Means/assets/79862833/c3b61204-bc70-4090-bb0b-fe8790d06626)
